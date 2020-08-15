@@ -1,6 +1,6 @@
 # Chuck Norris Project
 
-![Chuck Norris]()
+![Chuck Norris](https://i.postimg.cc/zXb6ZCmf/Chuck-Norris-Jokes.jpg)
 
 # Tools used
 
